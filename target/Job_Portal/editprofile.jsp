@@ -72,7 +72,7 @@ background:#283593;
 
 <button type="submit" class="btn btn-primary">Update Profile</button>
 
-<a href="viewjob" class="btn btn-secondary ml-2">
+<a href="home.jsp" class="btn btn-secondary ml-2">
 <i class="fa fa-arrow-left"></i> Back
 </a>
 

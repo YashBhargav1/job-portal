@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Job Portal</title>
 <%@include file="all_components/all_css.jsp"%>
 <%@include file="all_components/navbar.jsp"%>
 <style type="text/css">
@@ -26,7 +26,7 @@
 	<div class="container-fluid back-img">
 		<div class="text-center">
 			<h1 class="text-white p-4">
-				<i class="fa fa-book" aria-hidden="true"></i> online JOB portal
+				<i class="fa fa-book" aria-hidden="true"></i> ONLINE JOB PORTAL
 			</h1>
 
 		</div>
